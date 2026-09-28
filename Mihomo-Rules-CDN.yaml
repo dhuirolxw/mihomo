@@ -1280,7 +1280,6 @@ rules:
   # IP 规则
   - 'GEOIP,twitter,Twitter'
   - 'GEOIP,telegram,Telegram'
-  - 'GEOIP,spotify,Spotify'
   - 'GEOIP,google,Google'
   - 'GEOIP,cloudflare,Cloudflare'
   - 'GEOIP,cn,DIRECT'
