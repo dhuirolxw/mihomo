@@ -1268,7 +1268,6 @@ rules:
   - 'RULE-SET,twitter,Twitter'
   - 'GEOSITE,category-ai-!cn,AI'
   - 'GEOSITE,telegram,Telegram'
-  - 'GEOSITE,spotify,Spotify'
   - 'GEOSITE,netflix,Netflix'
   - 'GEOSITE,tiktok,TikTok'
   - 'GEOSITE,youtube,YouTube'
